@@ -1,4 +1,4 @@
-# BLE_Student_ID_Scanner
+# ble-scanner
 
 In this Makefile, we can configure for Raspberry pi and for PC.
 
